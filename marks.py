@@ -37,3 +37,35 @@ for s in range(num_students):
     print("Total:", total)
     print("Average:", average)
     print("Grade:", grade)
+
+
+
+"""
+Example Output:
+
+Enter number of students: 1
+
+Entering details for student 1
+Enter student name: Akshaya
+
+--- Student Marks Report ---
+Subject    Marks
+Subject 1: 80
+Subject 2: 90
+Subject 3: 85
+Subject 4: 95
+Subject 5: 88
+
+--- Report for Akshaya ---
+Subject 1 : 80
+Subject 2 : 90
+Subject 3 : 85
+Subject 4 : 95
+Subject 5 : 88
+------------------
+Total: 438
+Average: 87.6
+Grade: B
+"""
+
+
